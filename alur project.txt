@@ -1,0 +1,10 @@
+Nama 	: Emas Rosminasih
+NIM	: 1137050076
+Alur Project :
+- username : admin
+- password : admin
+project ini berjudul Aplikasi Pengolahan data Perpustakaan (Studi Kasus : SMP Negeri 1 Cariu Kab Bogor)
+pada project ini terdapat transaksi peminjamn dan pengembalian buku, setiap member maksimal meminjam buku sebanyak 5 buah.
+dan waktu peminjaman maksimal selama 7 hari, lebih dari itu dikenakan denda karna pengembalian buku telah terlambat.
+selain itu pada project ini anggota dapat melihat terlebih dahulu semua daftar buku.semoga dalam pembuatan Aplikasi ini dapat membantu
+perpustakaan SMP Negeri 1 Cariu dalam pengolahan data perpustakaan yang sebelumnya belum terkomputerisasi.
